@@ -18,8 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### 😂 Random Meme
+
+<img src='http://apimeme.com/meme?meme=Advice-Dog' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=creeep123&icon=0&color=12)](https://visitcount.itsvg.in)
