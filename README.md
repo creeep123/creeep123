@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on AI SaaS tools<br>👯 I'm looking to collaborate on AI product <br>🤝 I'm looking for help with commercialization of AI product<br>🌱 I'm currently learNing SEO<br>💬 Ask me about web developent<br>⚡ Was an stand-up comedian<br>
+🔭 I'm working on AI SaaS tools<br>👯 I'm looking to collaborate on AI product <br>🤝 I'm looking for help with commercialization of AI product<br>🌱 I'm currently learning SEO<br>💬 Ask me about web developent<br>⚡ Was an stand-up comedian<br>
 
 
 ## 🌐 Socials:
