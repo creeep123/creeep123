@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on AI SaaS tools<br>👯 I'm looking to collaborate on AI product <br>🤝 I'm looking for help with commercialization of AI product<br>🌱 I'm currently learning SEO<br>💬 Ask me about web developent<br>⚡ Was an stand-up comedian<br>
+🔭 I'm working on AI SaaS tools<br>👯 I'm looking to collaborate on AI product <br>🤝 I'm looking for help with commercialization of AI product<br>🌱 I'm currently learNing SEO<br>💬 Ask me about web developent<br>⚡ Was an stand-up comedian<br>
 
 
 ## 🌐 Socials:
@@ -13,13 +13,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=creeep123&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=creeep123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=creeep123&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Meme
-
 <img src='http://apimeme.com/meme?meme=Advice-Dog' style="height: 400px;"/>
 
 ---
